@@ -1,0 +1,1 @@
+In this project, I go even further with my CSS knowledge by incorporating images that act as gifts for a friend. Using the hover function, I add a new element to the site and make it a bit more interactive. 
